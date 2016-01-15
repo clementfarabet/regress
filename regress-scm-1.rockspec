@@ -2,13 +2,13 @@ package = "regress"
 version = "scm-1"
 
 source = {
-   url = "-",
+   url = "git://github.com/clementfarabet/regress.git",
    branch = "master",
 }
 
 description = {
    summary = "Regression tests made easy",
-   homepage = "-",
+   homepage = "https://github.com/clementfarabet/regress",
    license = "Twitter"
 }
 
